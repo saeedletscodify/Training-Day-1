@@ -1,4 +1,4 @@
-# Training-Day-1
+# Laravel Training-Day-1
 
 In this exsercise we covered following points of laravel
 - Routing
